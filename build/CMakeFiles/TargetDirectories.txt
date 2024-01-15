@@ -1,0 +1,3 @@
+/home/koslinxpc1/VSC_General_Folder/cmake_playground/new_test/build/CMakeFiles/AnotherNameHere.dir
+/home/koslinxpc1/VSC_General_Folder/cmake_playground/new_test/build/CMakeFiles/edit_cache.dir
+/home/koslinxpc1/VSC_General_Folder/cmake_playground/new_test/build/CMakeFiles/rebuild_cache.dir
